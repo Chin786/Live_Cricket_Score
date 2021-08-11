@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  background:;
+}
+
+h1{
+  color: white;
+ background-color: green;
+ background: url('./Image/live-cricket.png'); height:180px ;
+ opacity: 2;
+ }
+.App-link {
+  color: #61dafb;
+}
+
+body{
+  background:lightblue;
+}
+
